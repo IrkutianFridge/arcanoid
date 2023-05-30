@@ -1,4 +1,4 @@
-# arcanoid
+# shooter
 For using need to copy repository
 install puthon
 install pygame
